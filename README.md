@@ -8,6 +8,6 @@ these are the screen shots related to deployment
 
 2[Screenshot (43)](https://user-images.githubusercontent.com/60190158/151026123-420ae075-5d54-4915-b057-474bd4ec79ec.png)
 
-URL for Project deployed on Azure is https://lemon-glacier-08ac0671e.1.azurestaticapps.net
+URL for Project deployed on Azure is https://lemon-glacier-08ac0671e.1.azurestaticapps.net or https://saurabh22kar.github.io/My-Website/
 
 Video URL  https://youtu.be/SEMDnTUfrlI
